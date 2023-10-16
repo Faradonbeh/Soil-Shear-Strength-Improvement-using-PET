@@ -2,23 +2,19 @@
 
 ## Welcome to the PET App! To get started, follow the steps below:
 
-Step 1: Download the PET App
-Begin by downloading the PET_App.exe file to your computer.
+Step 1: Download the PET_App.exe file to your computer from the "Releases" section.
 
-Step 2: Run the App
-Double-click on the PET_App.exe file to run the application on your computer.
+Step 2: Double-click on the PET_App.exe file to run the application on your computer.
 Please be patient while the app initializes.
 
 
 
-## Accessing the Developed Models and Code
+## Accessing the Developed Models and Codes
 If you'd like to access the developed models and run the code using Python, follow these instructions:
 
-Step 1: Download the Code
-Download the code files located in the "Codes" folder.
+Step 1: Download the code files located in the "Codes" folder.
 
-Step 2: Install Required Libraries
-Before running the code, make sure to install the necessary libraries mentioned in the requirements.txt file.
+Step 2: Before running the codes, install the necessary libraries mentioned in the requirements.txt file.
 
 Step 3: Utilize the Code
 
