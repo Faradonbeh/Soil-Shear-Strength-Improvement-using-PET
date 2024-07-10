@@ -1,5 +1,5 @@
 This Graphical User Interface (GUI) provides a simple platform to assess the effect of Polyethylene-Terephthalate (PET) on sandy soil shear strength using different Machine Learning (ML) algorithms, including Decision Tree (DT), Random Forest (RF), XGBoost, and AdaBoost. 
-To get more information about the models and employed independent variables, please refer to https://doi.org/??????????/ (the link will be provided soon).
+To get more information about the models and employed independent variables, please refer to https://link.springer.com/article/10.1007/s12145-024-01398-0.
 
 # Getting Started with the PET App
 
